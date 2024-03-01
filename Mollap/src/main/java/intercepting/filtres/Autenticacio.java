@@ -1,4 +1,4 @@
 package intercepting.filtres;
 
-public interface Filtre {
+public class Autenticacio {
 }
